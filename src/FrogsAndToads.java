@@ -118,8 +118,8 @@ public class FrogsAndToads {
 
         String case17 = getHint("1234", null);
         assertHint(17, case17, "4F0T");
-//        // null here causes exception at run time. I could fix it by checking param hiddenStr and guessStr, not being null
-//        //However, I m leave it here to demonstrate as Qa finding bug, then report it, talk to Dev etc.
+       // null here causes exception at run time. I could fix it by checking param hiddenStr and guessStr, not being null
+       //However, I m leave it here to demonstrate as Qa finding bug, then report it, talk to Dev etc.
 
     }
 
